@@ -1,0 +1,20 @@
+What house is Harry Potter sorted into?, Hufflepuff, Ravenclaw, Gryffindor, Slytherin, 3
+Who is the author of the Harry Potter series?, J.R.R. Tolkien, George R.R. Martin, C.S. Lewis, J.K. Rowling, 4
+What is the name of Harry Potter's owl?, Hedwig, Errol, Crookshanks, Scabbers, 1
+Which spell is used to disarm an opponent?, Wingardium Leviosa, Expelliarmus, Lumos, Avada Kedavra, 2
+What position does Harry play on his Quidditch team?, Beater, Chaser, Keeper, Seeker, 4
+What is the name of the Weasley family home?, Grimmauld Place, Godric's Hollow, The Burrow, Shell Cottage, 3
+Who teaches Potions at Hogwarts during Harry's first year?, Albus Dumbledore, Severus Snape, Minerva McGonagall, Gilderoy Lockhart, 2
+What is the name of Hermione Granger's cat?, Crookshanks, Scabbers, Fawkes, Hedwig, 1
+Which magical creature is known for its ability to find buried treasure?, Hippogriff, Niffler, Thestral, Acromantula, 2
+Who is the Half-Blood Prince?, Harry Potter, Tom Riddle, Severus Snape, Albus Dumbledore, 3
+What is the name of the wizarding newspaper?, The Wizarding Times, Witch Weekly, The Quibbler, The Daily Prophet, 4
+What is the core of Harry Potter's wand?, Dragon Heartstring, Unicorn Hair, Phoenix Feather, Basilisk Fang, 3
+Who was the Headmaster of Hogwarts before Albus Dumbledore?, Armando Dippet, Phineas Nigellus Black, Newt Scamander, Horace Slughorn, 1
+What is the name of Hagrid's giant half-brother?, Grawp, Norbert, Aragog, Buckbeak, 1
+Which Horcrux was hidden in the Room of Requirement?, The Diadem of Ravenclaw, Tom Riddle's Diary, The Locket of Slytherin, The Cup of Hufflepuff, 1
+Who killed Dobby the house-elf?, Lucius Malfoy, Bellatrix Lestrange, Draco Malfoy, Fenrir Greyback, 2
+What is the name of the potion that grants luck?, Amortentia, Veritaserum, Felix Felicis, Polyjuice Potion, 3
+Which creature can only be seen by those who have witnessed death?, Acromantulas, House-elves, Hippogriffs, Thestrals, 4
+What magical object shows the deepest desires of the heart?, The Pensieve, The Mirror of Erised, The Sorting Hat, The Philosopher's Stone, 2
+Who is the author of "Fantastic Beasts and Where to Find Them"?, Gilderoy Lockhart, Bathilda Bagshot, Newt Scamander, Hermione Granger, 3
